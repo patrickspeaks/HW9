@@ -1,0 +1,23 @@
+﻿/*style sheet for HW8*/
+
+body {
+    background-color: gray;
+}
+
+.one {
+    background-color: yellow;
+    }
+
+.two {
+    background-color: green;
+    }
+
+.three {
+    background-color: blue;
+    }
+
+#button {
+    background-color: #00ff33;
+}
+
+
